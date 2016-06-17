@@ -1,0 +1,11 @@
+gitignore
+*.txt
+tempfile.txt
+.DS_Store
+*.zip
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
+log/*.log
+junk3.txt
+
